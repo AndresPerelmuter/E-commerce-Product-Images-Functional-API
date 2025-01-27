@@ -1,7 +1,7 @@
 # E-commerce Product Images Functional API
 
 **Descripción del Proyecto**
-Este proyecto implementa un modelo de clasificación multiuple basado en TensorFlow y Keras, diseñado para predecir múltiples etiquetas (como género, categoría, subcategoría, tipo de producto y color) a partir de imágenes. El modelo fue construido utilizando **Keras Functional API**, lo que permitió diseñar una arquitectura más flexible y personalizable para abordar las tareas multi-salida de forma simultánea.
+Este proyecto implementa un modelo **CNN (Convolutional Neural Network)**, de clasificación multiuple basado en TensorFlow y Keras, diseñado para predecir múltiples etiquetas (como género, categoría, subcategoría, tipo de producto y color) a partir de imágenes. El modelo fue construido utilizando **Keras Functional API**, lo que permitió diseñar una arquitectura más flexible y personalizable para abordar las tareas multi-salida de forma simultánea.
 Los datos fueron extraidos de Kaggle: https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images.
 
 **Objetivo**
