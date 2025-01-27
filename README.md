@@ -35,8 +35,8 @@ El modelo fue compilado con:
 - Métricas: Accuracy para cada salida.
   
 **6. Entrenamiento**
-Se entrenó el modelo durante 10 épocas con un tamaño de batch de 32.
-Se incluyó un conjunto de validación para monitorizar las métricas en datos no vistos.
+Se entrenó el modelo con epochs = 10 y batch = 32.
+Se incluyó un conjunto de validación.
 
 **7. Evaluación**
 Se evaluó el modelo en el conjunto de prueba.
