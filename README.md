@@ -2,6 +2,7 @@
 
 **Descripción del Proyecto**
 Este proyecto implementa un modelo de clasificación multi-salida basado en TensorFlow y Keras, diseñado para predecir múltiples etiquetas (como género, categoría, subcategoría, tipo de producto y color) a partir de imágenes. El modelo fue construido utilizando **Keras Functional API**, lo que permitió diseñar una arquitectura más flexible y personalizable para abordar las tareas multi-salida de forma simultánea.
+Los datos fueron extraidos de Kaggle: https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images.
 
 **Objetivo**
 El objetivo principal de este proyecto fue entrenar un modelo de deep learning capaz de realizar múltiples tareas de clasificación de forma simultánea.
